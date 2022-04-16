@@ -6,3 +6,5 @@ This is my photo.
 Emm, a little bit *official*
 
 Can't wait to create more memories in TW with you!
+
+It looks like I successfully added the profile!
